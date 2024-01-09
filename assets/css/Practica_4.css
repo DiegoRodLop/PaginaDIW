@@ -68,7 +68,7 @@ nav{
 		color: black;
 	}m 
 	nav a:active{
-		 background-color: rgb(255, 255, 255);
+		 background-color: rgb(240, 112, 112);
 	}
 	nav a:hover{
 		 font-size: bold 14px;
@@ -88,7 +88,7 @@ nav{
 		  margin: 15px;
 		  font-size: bold 14px;
 		  font-family: Arial;
-		  background-color: #ffffff;
+		  background-color: #993e3e;
 		  list-style: none;
 		  text-decoration: none;
 		}
@@ -107,40 +107,40 @@ aside{
 		text-decoration: none;
 	}
 	aside a:visited{
-		color: rgb(252, 252, 252);
+		color: rgb(255, 255, 255);
 	}
 	aside a:active{
-		 background-color: rgb(255, 255, 255);
+		 background-color: rgba(255, 255, 255, 0);
 		 text-decoration: none;
 	}
 	aside a:hover{
-		font-size: bold 14px;
+		font-size: bold 30px;
 		 text-decoration: overline;
 		 -webkit-transform: translate(10%);
 		 transform: translate(10%);
 	}
 			.lateral li {
-				background: #ffffff;
-				color: #FFFFFF;
+				background: #ffffff00;
+				color: #030303;
 				display: block;
-				font: bold 14px/20px sans-serif;
+				font: bold 20px sans-serif;
 				padding: 10px 25px;
 				text-align: center;
 				text-decoration: none;
 			}
 			.lateral a {
-				background: #ffffff;
+				background: #ffffff00;
 				color: #FFFFFF;
 				display: block;
-				font: bold 14px/20px sans-serif;
+				font: bold 20px sans-serif;
 				padding: 10px 25px;
 				text-align: center;
 				text-decoration: none;
 			}
 			.lateral li:hover a {
-				background: #ffffff;
+				background: #ffffff00;
 				text-decoration: none;
-				font-size: bold 14px;
+				font-size: bold 18px;
 			}
 
 article{
