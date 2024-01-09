@@ -74,7 +74,7 @@ nav{
 		 background-color: red;
 	}
 	nav a:hover{
-		 font-size: 30px;
+		 font-size: 20px;
 		 text-decoration: none;
 	}
 		.menu ul{
@@ -89,7 +89,7 @@ nav{
 		  color: #000000;
 		  text-align: center;
 		  margin: 15px;
-		  font-size: 30px;
+		  font-size: 20px;
 		  font-family: Arial;
 		  background-color: #C0392B;
 		  list-style: none;
@@ -104,26 +104,27 @@ aside{
 	-webkit-transition: 1s linear;
   transition: 1s linear;
   text-decoration: none;
+  font-size: 20px;
 }
 	aside a:link{
 		color: rgb(255, 255, 255);
 		text-decoration: none;
-		font: bold 12px/20px sans-serif;
+		font-size: 20px;
 	}
 	aside a:visited{
 		color: brown;
-		font: bold 12px/20px sans-serif;
+		font-size: 20px;
 	}
 	aside a:active{
 		 background-color: red;
 		 text-decoration: none;
-		 font: bold 12px/20px sans-serif;
+		 font-size: 20px;
 	}
 	aside a:hover{
 		 text-decoration: overline;
 		 -webkit-transform: translate(10%);
 		 transform: translate(10%);
-		 font: bold 12px/20px sans-serif;
+		 font-size: 20px;
 	}
 			.lateral li {
 				background: #6A9FCF;
