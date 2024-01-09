@@ -130,7 +130,7 @@ aside{
 				background: #6A9FCF;
 				color: #FFFFFF;
 				display: block;
-				font: bold 12px/20px sans-serif;
+				font: bold 30px/40px sans-serif;
 				padding: 10px 25px;
 				text-align: center;
 				text-decoration: none;
@@ -139,7 +139,7 @@ aside{
 				background: #6A9FCF;
 				color: #FFFFFF;
 				display: block;
-				font: bold 12px/20px sans-serif;
+				font: bold 30px/40px sans-serif;
 				padding: 10px 25px;
 				text-align: center;
 				text-decoration: none;
@@ -147,7 +147,6 @@ aside{
 			.lateral li:hover a {
 				background: #4d3131;
 				text-decoration: none;
-				font: bold 12px/20px sans-serif;
 			}
 
 article{
