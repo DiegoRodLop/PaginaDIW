@@ -74,7 +74,7 @@ nav{
 		 background-color: red;
 	}
 	nav a:hover{
-		 font-size: 28px;
+		 font-size: 30px;
 		 text-decoration: none;
 	}
 		.menu ul{
@@ -86,10 +86,10 @@ nav{
 		.menu li{
 		  width: 100px;
 		  height: 50px;
-		  color: #FFF;
+		  color: #000000;
 		  text-align: center;
 		  margin: 15px;
-		  font-size: 20px;
+		  font-size: 30px;
 		  font-family: Arial;
 		  background-color: #C0392B;
 		  list-style: none;
@@ -106,7 +106,7 @@ aside{
   text-decoration: none;
 }
 	aside a:link{
-		color: green;
+		color: rgb(199, 0, 0);
 		text-decoration: none;
 	}
 	aside a:visited{
