@@ -110,7 +110,7 @@ aside{
 		text-decoration: none;
 	}
 	aside a:visited{
-		color: brown;
+		color: rgb(252, 252, 252);
 	}
 	aside a:active{
 		 background-color: red;
