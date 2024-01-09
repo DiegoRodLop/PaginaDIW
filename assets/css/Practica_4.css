@@ -123,7 +123,7 @@ aside{
 		 transform: translate(10%);
 	}
 			.lateral li {
-				background: #6A9FCF;
+				background: #ffffff;
 				color: #FFFFFF;
 				display: block;
 				font: bold 14px/20px sans-serif;
@@ -132,7 +132,7 @@ aside{
 				text-decoration: none;
 			}
 			.lateral a {
-				background: #6A9FCF;
+				background: #ffffff;
 				color: #FFFFFF;
 				display: block;
 				font: bold 14px/20px sans-serif;
@@ -141,7 +141,7 @@ aside{
 				text-decoration: none;
 			}
 			.lateral li:hover a {
-				background: #4d3131;
+				background: #ffffff;
 				text-decoration: none;
 				font-size: bold 14px;
 			}
