@@ -104,27 +104,22 @@ aside{
 	-webkit-transition: 1s linear;
   transition: 1s linear;
   text-decoration: none;
-  font-size: 20px;
 }
 	aside a:link{
 		color: rgb(255, 255, 255);
 		text-decoration: none;
-		font-size: 20px;
 	}
 	aside a:visited{
 		color: brown;
-		font-size: 20px;
 	}
 	aside a:active{
 		 background-color: red;
 		 text-decoration: none;
-		 font-size: 20px;
 	}
 	aside a:hover{
 		 text-decoration: overline;
 		 -webkit-transform: translate(10%);
 		 transform: translate(10%);
-		 font-size: 20px;
 	}
 			.lateral li {
 				background: #6A9FCF;
