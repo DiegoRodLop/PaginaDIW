@@ -106,20 +106,24 @@ aside{
   text-decoration: none;
 }
 	aside a:link{
-		color: rgb(199, 0, 0);
+		color: rgb(255, 255, 255);
 		text-decoration: none;
+		font: bold 12px/20px sans-serif;
 	}
 	aside a:visited{
 		color: brown;
+		font: bold 12px/20px sans-serif;
 	}
 	aside a:active{
 		 background-color: red;
 		 text-decoration: none;
+		 font: bold 12px/20px sans-serif;
 	}
 	aside a:hover{
 		 text-decoration: overline;
 		 -webkit-transform: translate(10%);
 		 transform: translate(10%);
+		 font: bold 12px/20px sans-serif;
 	}
 			.lateral li {
 				background: #6A9FCF;
@@ -140,8 +144,9 @@ aside{
 				text-decoration: none;
 			}
 			.lateral li:hover a {
-				background: #000000;
+				background: #4d3131;
 				text-decoration: none;
+				font: bold 12px/20px sans-serif;
 			}
 
 article{
@@ -186,7 +191,8 @@ footer{
 	bottom:0;
 }
 	footer a:link{
-		color: green;
+		color: rgb(2, 37, 2);
+
 	}
 	footer a:visited{
 		color: brown;
@@ -350,7 +356,7 @@ aside{
 		color: brown;
 	}
 	aside a:active{
-		 background-color: red;
+		 background-color: rgb(147, 161, 80);
 	}
 	aside a:hover{
 		 text-decoration: overline;
@@ -377,7 +383,7 @@ aside{
 				text-decoration: none;
 			}
 			.lateral li:hover a {
-				background: #000000;
+				background: #774c4c;
 				text-decoration: none;
 			}
 article{
