@@ -168,12 +168,14 @@ article{
 		margin-top:20px;
 		margin-bottom:20px;
 		bottom:0;
+		color: brown;
 	}
 	.contacto a{
 		text-decoration: none;
+		color: brown;
 	}
 	.contacto a:hover{
-		 background: #000000;
+		 background: #ffffff;
 		 text-decoration: none;
 	}
 footer{
